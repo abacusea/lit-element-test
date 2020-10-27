@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 349" width="27" height="349" class="shadow">
+	<defs>
+		<image width="20" height="310" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAE2AgMAAAAc9FoXAAAAAXNSR0IB2cksfwAAAAxQTFRF////////////////9aUOcwAAAAR0Uk5TgP/MzWLIwgMAAAAqSURBVHicYxANDQ0NYxiJZPiAkoMhBEYaOTLjemDT+WiYjxxyMOTxASABxd6254nkb/cAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+    .shadow{  box-shadow: 0 3px 5px -1px rgba(156, 165, 219, 0.14), 0 1px 18px 0 rgba(156, 165, 219, 0.14), 0 6px 10px 0 rgba(156, 165, 219, 0.14);}
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M12.08 22.97C12.08 19.26 15.09 16.25 18.8 16.25L18.8 4.5L-0.5 4.5L-0.5 49L18.8 49L18.8 29.69C15.09 29.69 12.08 26.68 12.08 22.97Z" />
+		<use id="Layer 1" href="#img1" x="0" y="34" />
+	</g>
+</svg>

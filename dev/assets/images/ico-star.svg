@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ico-single/1px/ico-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,12.0697733 L10.8897855,14.2642899 C11.7696475,14.9324612 12.2148177,14.6151537 11.8876169,13.5668287 L10.7670833,9.97672979 L13.6442263,7.84036766 C14.5310706,7.18186004 14.3544284,6.64803414 13.2495733,6.64803414 L9.75208333,6.64803414 L8.58829247,2.87923614 C8.26338751,1.82707015 7.73389625,1.83586636 7.41170753,2.87923614 L6.24791667,6.64803414 L2.75042671,6.64803414 C1.64562155,6.64803414 1.47025812,7.18284668 2.35577366,7.84036766 L5.23291667,9.97672979 L4.11238313,13.5668287 C3.78360813,14.6201972 4.23734145,14.9271537 5.1102145,14.2642899 L8,12.0697733 Z" id="path-1"></path>
+    </defs>
+    <g id="ico-single/1px/ico-star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Icon-Color" transform="translate(4.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#0B1D81" xlink:href="#path-1"></use>
+            <g id="Color/Blue" mask="url(#mask-2)" fill="#0B1D81">
+                <g transform="translate(-4.000000, -3.000000)" id="Rectangle-3">
+                    <rect x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ico-single/1px/ico-cancel-close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.646446609,1.0478138 C0.841708755,0.852551651 1.15829124,0.852551651 1.35355339,1.0478138 L1.35355339,1.0478138 L5.753,5.44736719 L10.1531047,1.0478138 C10.3483669,0.852551651 10.6649494,0.852551651 10.8602115,1.0478138 C11.0337779,1.22138015 11.053063,1.49080455 10.918067,1.68567269 L10.8602115,1.75492058 L6.46,6.15436719 L10.8602115,10.5544719 L10.918067,10.6237198 C11.053063,10.818588 11.0337779,11.0880124 10.8602115,11.2615787 C10.6649494,11.4568409 10.3483669,11.4568409 10.1531047,11.2615787 L10.1531047,11.2615787 L5.753,6.86136719 L1.35355339,11.2615787 C1.15829124,11.4568409 0.841708755,11.4568409 0.646446609,11.2615787 C0.472880258,11.0880124 0.453595107,10.818588 0.588591159,10.6237198 L0.646446609,10.5544719 L5.046,6.15436719 L0.646446609,1.75492058 L0.588591159,1.68567269 C0.453595107,1.49080455 0.472880258,1.22138015 0.646446609,1.0478138 Z" id="path-1"></path>
+    </defs>
+    <g id="ico-single/1px/ico-cancel-close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="↳-Icon-Color" transform="translate(6.000000, 6.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#0D1E83" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Color/Blue" mask="url(#mask-2)" fill="#0B1D81">
+                <g transform="translate(-6.000000, -6.000000)" id="Rectangle-3">
+                    <rect x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

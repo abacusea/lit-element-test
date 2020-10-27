@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ico-OTP</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico-OTP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34.6379395,38.3815837 L11.595,38.3815837 C9.8166431,38.3815837 8.375,36.9399406 8.375,35.1615837 L8.375,28.945901 C8.375,27.1675442 9.8166431,25.7259011 11.595,25.7259011 L38.4938965,25.7259011" id="Path" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="17.361256" y1="30.7925388" x2="12.8527476" y2="33.3906815" id="Path-168-Copy" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="17.2130127" y1="30.7533559" x2="12.7045043" y2="33.3514987" id="Path-168-Copy-2" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.107002, 32.014560) scale(-1, 1) translate(-15.107002, -32.014560) "></line>
+        <line x1="25.6145808" y1="30.7925388" x2="21.1060724" y2="33.3906815" id="Path-168-Copy" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="25.4663375" y1="30.7533559" x2="20.9578291" y2="33.3514987" id="Path-168-Copy-2" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.360327, 32.014560) scale(-1, 1) translate(-23.360327, -32.014560) "></line>
+        <line x1="33.8679056" y1="30.7925388" x2="29.3593972" y2="33.3906815" id="Path-168-Copy" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="33.7196623" y1="30.7533559" x2="29.2111539" y2="33.3514987" id="Path-168-Copy-2" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(31.613651, 32.014560) scale(-1, 1) translate(-31.613651, -32.014560) "></line>
+        <rect id="Rectangle" stroke="#0B1D81" stroke-width="2" stroke-linejoin="round" x="40.0299114" y="31.1839113" width="15.0411198" height="10.0521243" rx="2.14666665"></rect>
+        <path d="M51.6723544,27.3030121 L51.6723544,26.4881422 C51.6723544,24.2855521 49.8868024,22.5 47.6842123,22.5 C45.4816222,22.5 43.6960701,24.2855521 43.6960701,26.4881422 L43.6960701,30.9088709" id="Path" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Oval" fill="#0B1D81" cx="47.6842123" cy="36.2099735" r="1.05736357"></circle>
+        <line x1="15.1070018" y1="29.4882371" x2="15.1070018" y2="34.6192476" id="Path-168" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="23.3603266" y1="29.4882371" x2="23.3603266" y2="34.6192476" id="Path-168" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+        <line x1="31.6136514" y1="29.4882371" x2="31.6136514" y2="34.6192476" id="Path-168" stroke="#0B1D81" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+</svg>

@@ -1,0 +1,59 @@
+{
+  "version": "experimental",
+  "tags": [
+    {
+      "name": "header-element",
+      "path": "./src\\components\\header\\index.js"
+    },
+    {
+      "name": "login-cover",
+      "path": "./src\\components\\login-cover\\index.js"
+    },
+    {
+      "name": "footer-element",
+      "path": "./src\\components\\footer\\index.js"
+    },
+    {
+      "name": "retail-login",
+      "path": "./src\\templates\\retail-login\\index.js"
+    },
+    {
+      "name": "corporate-login",
+      "path": "./src\\templates\\corporate-login\\index.js"
+    },
+    {
+      "name": "sib-app",
+      "path": "./sib-app.js",
+      "attributes": [
+        {
+          "name": "route",
+          "type": "string",
+          "default": "\"\""
+        },
+        {
+          "name": "params",
+          "type": "object",
+          "default": "{}"
+        }
+      ],
+      "properties": [
+        {
+          "name": "route",
+          "attribute": "route",
+          "type": "string",
+          "default": "\"\""
+        },
+        {
+          "name": "params",
+          "attribute": "params",
+          "type": "object",
+          "default": "{}"
+        }
+      ]
+    },
+    {
+      "name": "body-element",
+      "path": "./src\\components\\body.js"
+    }
+  ]
+}

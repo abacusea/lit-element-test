@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs-src",
+    "\\docs-src\\_includes",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\login-cover",
+    "\\src\\templates",
+    "\\src\\templates\\corporate-login",
+    "\\src\\templates\\retail-login",
+    "\\test"
+  ],
+  "SelectedNode": "\\src\\components\\login-cover\\index.js",
+  "PreviewInSolutionExplorer": false
+}

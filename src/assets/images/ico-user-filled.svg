@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="129px" viewBox="0 0 128 129" enable-background="new 0 0 128 129" xml:space="preserve">
+<g transform="translate(16 16.5)">
+	<g>
+		<path id="prefix__a_1_" fill="#0B1D81" d="M48-14.5c34.518,0,62.5,27.982,62.5,62.5c0,6.232-0.912,12.253-2.61,17.932
+			c-3.136,10.489-8.952,19.82-16.652,27.2C80.011,103.889,64.777,110.5,48,110.5c-11.266,0-21.836-2.981-30.963-8.196
+			C-1.802,91.538-14.5,71.252-14.5,48C-14.5,13.482,13.482-14.5,48-14.5z M48,43.281c-18.294,0-33.125,14.83-33.125,33.126h66.249
+			C81.124,58.111,66.294,43.281,48,43.281z M48,7.725c-6.514,0-11.794,5.28-11.794,11.794S41.486,31.314,48,31.314
+			c6.515,0,11.795-5.28,11.795-11.794S54.515,7.727,48,7.727V7.725z"/>
+	</g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-16" y="-16" width="128" height="128">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="-16" y="-16" width="128" height="128" id="prefix__b">
+		<g filter="url(#Adobe_OpacityMaskFilter)">
+			<path id="prefix__a" fill="#FFFFFF" d="M48,0c26.51,0,48,21.49,48,48c0,4.786-0.7,9.41-2.005,13.771
+				c-2.408,8.056-6.875,15.222-12.789,20.89C72.584,90.923,60.885,96,48,96c-8.652,0-16.77-2.29-23.78-6.295
+				C9.752,81.438,0,65.857,0,48C0,21.49,21.49,0,48,0z M48,44.376c-14.05,0-25.44,11.39-25.44,25.44h50.879
+				C73.439,55.766,62.05,44.376,48,44.376z M48,17.069c-5.003,0-9.058,4.055-9.058,9.058s4.055,9.058,9.058,9.058
+				s9.059-4.055,9.059-9.058S53.003,17.07,48,17.069L48,17.069z"/>
+		</g>
+	</mask>
+	<g mask="url(#prefix__b)">
+		<path display="none" fill="#0B1D81" d="M-16-16h128v128H-16V-16z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ico-contact-details</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico-contact-details" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <path d="M42.179419,34.2748195 C39.1153936,31.8863035 35.2617433,30.4634014 31.0757564,30.4634014 C21.0927918,30.4634014 13,38.5561932 13,48.5391578 L31.4419566,48.5391578" id="Path" stroke="#0B1D81" stroke-width="2" stroke-linecap="round"></path>
+        <circle id="Oval-Copy" stroke="#0B1D81" stroke-width="2" cx="30.9905045" cy="17.82966" r="6.82966005"></circle>
+        <path d="M46.120246,46.2275706 C46.120246,47.6798691 44.9426115,48.8570005 43.4903131,48.8570005 C42.0385177,48.8570005 40.8613862,47.6798691 40.8613862,46.2275706 C40.8613862,44.7752722 42.0385177,43.5976377 43.4903131,43.5976377 C44.9426115,43.5976377 46.120246,44.7752722 46.120246,46.2275706 Z" id="Stroke-1" stroke="#0B1D81" stroke-width="2" stroke-linecap="round"></path>
+        <path d="M43.4905143,53 C39.7498522,53 36.7179843,49.968132 36.7179843,46.22747 C36.7179843,42.487311 39.7498522,39.454437 43.4905143,39.454437 C47.2311763,39.454437 50.2635473,42.487311 50.2635473,46.22747 L50.2635473,47.8211248 C50.2635473,48.9650551 49.3359275,49.8926749 48.1919973,49.8926749 C47.0475639,49.8926749 46.1204472,48.9650551 46.1204472,47.8211248 L46.1204472,46.22747" id="Stroke-3" stroke="#0B1D81" stroke-width="2" stroke-linecap="round"></path>
+    </g>
+</svg>

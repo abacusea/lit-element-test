@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ico-self-image</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ico-self-image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M41.3830742,42.4407877 C40.9567171,37.2859059 36.6378625,33.2352563 31.372928,33.2352563 C26.1349371,33.2352563 21.8333676,37.2445532 21.369633,42.3617338" id="Path-Copy-16" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <circle id="Oval-Copy-47" stroke="#0B1D81" stroke-width="2" cx="31.372928" cy="24.9694489" r="3.79524357"></circle>
+        <polyline id="Path-Copy" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="13 23.2612998 13 13 23.2612998 13"></polyline>
+        <polyline id="Path-Copy-3" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.130650, 45.869350) scale(1, -1) translate(-18.130650, -45.869350) " points="13 51 13 40.7387002 23.2612998 40.7387002"></polyline>
+        <polyline id="Path-Copy-2" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(45.869350, 18.130650) scale(-1, 1) translate(-45.869350, -18.130650) " points="40.7387002 23.2612998 40.7387002 13 51 13"></polyline>
+        <polyline id="Path-Copy-4" stroke="#0B1D81" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(45.869350, 45.869350) scale(-1, -1) translate(-45.869350, -45.869350) " points="40.7387002 51 40.7387002 40.7387002 51 40.7387002"></polyline>
+    </g>
+</svg>

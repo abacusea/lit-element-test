@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="17px" viewBox="0 0 21 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>25CA4761-8D33-4296-BFE3-34CC781E6932</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M3.6124214,2.05333334 L10.2666667,7.87579799 L16.920912,2.05333334 L3.6124214,2.05333334 Z M18.4800001,3.4175354 L10.9427314,10.0126455 C10.5556514,10.3513405 9.977682,10.3513405 9.59060198,10.0126455 L2.05333334,3.4175354 L2.05333334,14.3733334 L18.4800001,14.3733334 L18.4800001,3.4175354 Z M0,1.02666667 C0,0.459654326 0.459654326,0 1.02666667,0 L19.5066668,0 C20.0736791,0 20.5333334,0.459654326 20.5333334,1.02666667 L20.5333334,15.4000001 C20.5333334,15.9670124 20.0736791,16.4266667 19.5066668,16.4266667 L1.02666667,16.4266667 C0.459654326,16.4266667 0,15.9670124 0,15.4000001 L0,1.02666667 Z" id="path-1"></path>
+    </defs>
+    <g id="Message-center" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="5.-Messaging-Centre-(Inbox)" transform="translate(-142.000000, -352.000000)">
+            <g id="Group-5" transform="translate(140.000000, 348.000000)">
+                <polygon id="Path-7" fill="#FFBD64" points="2.92456055 4.63356164 12 12.4417808 20.9545898 4.63356164"></polygon>
+                <g id="Icon-/-Email-/-Rounded">
+                    <g id="↳-Icon-Color" transform="translate(2.053333, 4.106667)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#979797" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="✱-/-Color-/-Icons-/-Blue" mask="url(#mask-2)" fill="#0B1D81">
+                            <g transform="translate(-2.053333, -4.106667)" id="Rectangle-3">
+                                <rect x="0" y="0" width="24.9262822" height="24.9262822"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
